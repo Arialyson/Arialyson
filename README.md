@@ -1,4 +1,4 @@
-## Bazinga! Eu sou Arialyson Lima
+## Bazinga!
 
 
 - 🔭 Hoje trabalho com front-end
