@@ -2,7 +2,7 @@
 
 
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas
-- - ⚡ Redes de Computadores - Instituto Federal do Rio Grande do Norte
+- ⚡ Redes de Computadores - Instituto Federal do Rio Grande do Norte
 - 🚀 Apaixonado por tecnologia, lógica e aprender coisas novas
 - ☕ Transformando café em código e bugs em aprendizado!
 <div style="display: inline_block"><br>
