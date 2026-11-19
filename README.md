@@ -1,6 +1,6 @@
 ### Olá, eu sou o Arialyson Lima 👋
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas** (Gran Centro Universitário) e **Técnico em Redes de Computadores** (**IFRN**)  
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas** e **Técnico em Redes de Computadores** (**IFRN**)  
 💻 Foco em **Desenvolvimento Full Stack**, **Infraestrutura de Redes**, **Administração Linux** e **Suporte Técnico a Sistemas**  
 🚀 Atualmente desenvolvendo e mantendo o **Projeto Kaiowá** em ambiente de rede (arquitetura cliente-servidor, banco de dados e serviços)  
 🏭 +11 anos de experiência prévia em ambiente industrial com monitoramento de indicadores críticos (KPIs) e resolução de falhas técnicas (*troubleshooting*)  
